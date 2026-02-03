@@ -8,3 +8,6 @@ if a == 1:
     print("Yes")
 else:
     print("No")
+
+for i in range(a+3):
+    print("x")

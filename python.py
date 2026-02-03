@@ -7,4 +7,4 @@ a=1
 if a == 1:
     print("Yes")
 else:
-    print("No)
+    print("No")
